@@ -1,0 +1,19 @@
+{
+  "name": "proxyjam",
+  "owner": {
+    "name": "ProxyJam",
+    "url": "https://proxyjam.com"
+  },
+  "metadata": {
+    "description": "Official ProxyJam plugins for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "proxyjam",
+      "source": "./plugins/proxyjam",
+      "description": "Buy and manage ProxyJam proxies from Claude Code: /proxyjam:offers, /proxyjam:buy and more.",
+      "category": "productivity",
+      "homepage": "https://docs.proxyjam.com/api/mcp"
+    }
+  ]
+}

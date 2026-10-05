@@ -1,0 +1,13 @@
+{
+  "name": "proxyjam",
+  "version": "0.1.0",
+  "description": "Buy and manage ProxyJam proxies from Claude Code: /proxyjam:offers, /proxyjam:buy and more.",
+  "author": {
+    "name": "ProxyJam",
+    "url": "https://proxyjam.com"
+  },
+  "homepage": "https://docs.proxyjam.com/api/mcp",
+  "repository": "https://github.com/getproxyjam/claude-plugin",
+  "license": "MIT",
+  "keywords": ["proxy", "proxies", "mcp", "proxyjam"]
+}
