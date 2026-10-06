@@ -2,7 +2,7 @@
   "mcpServers": {
     "proxyjam": {
       "type": "http",
-      "url": "https://mcp.proxyjam.com/mcp"
+      "url": "https://proxyjam.com/mcp"
     }
   }
 }

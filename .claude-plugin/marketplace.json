@@ -13,7 +13,7 @@
       "source": "./plugins/proxyjam",
       "description": "Buy and manage ProxyJam proxies from Claude Code: /proxyjam:offers, /proxyjam:buy and more.",
       "category": "productivity",
-      "homepage": "https://docs.proxyjam.com/api/mcp"
+      "homepage": "https://docs.proxyjam.com/mcp-server"
     }
   ]
 }

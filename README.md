@@ -38,9 +38,9 @@ works by just asking Claude.
 
 ## Other MCP clients
 
-The same commands are served as MCP prompts by `https://mcp.proxyjam.com/mcp`, so Claude
+The same commands are served as MCP prompts by `https://proxyjam.com/mcp`, so Claude
 Desktop, Cursor and other clients list them too. See the
-[MCP documentation](https://docs.proxyjam.com/api/mcp).
+[MCP documentation](https://docs.proxyjam.com/mcp-server).
 
 ## License
 
